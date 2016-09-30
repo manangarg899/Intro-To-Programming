@@ -1,0 +1,28 @@
+.concept{
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #ffc0cb;
+}
+span
+{
+  font-size:30px;
+  font-style: italic;
+}
+h2
+{
+  font-style: italic;
+  color:#FFF;
+}
+h1
+{
+  font-style: italic;
+  color:#FFF;
+}
+body
+{
+  background-color: #260126
+}
+.TOC
+{
+  color:#FFF;
+}
