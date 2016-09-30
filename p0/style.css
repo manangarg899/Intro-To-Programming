@@ -1,0 +1,27 @@
+body
+{
+	background-color: #cccccc;
+	font-family:"Algerian";
+
+}
+h1
+{
+	text-align:center;
+}
+.para1
+{
+	border-style:ridge;
+	border-radius:10px;
+	margin:10px;
+	background-color:#4DD0E1
+}
+.para2
+{
+	border-style:ridge;
+	border-radius:10px;
+	margin:10px;
+	background-color:#4DD0E1
+}
+span{
+	font-size: 25px;
+}
